@@ -3,7 +3,7 @@
 ## Objetivo
 Dar visbilidad y gestionar las prinicpales quejas y reclamaciones que corrugados tenga en fucnion a las bobinas producidad por el molino. 
 ---
-## 뭅뭃뭄뭆 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 - **Power BI Desktop** (*DirectQuery]*)
 - **[Fuente de datos, ej. SQL Server]**
 - **DAX** (*[tipo de cálculos: medidas de prduccion, reclamacioens proemedio, usuarios con mas recalmaciones]*)
